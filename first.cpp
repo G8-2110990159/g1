@@ -1,3 +1,4 @@
+//heading by Amarbir Singh
 #include<iostream>
 using namespace std;
 
